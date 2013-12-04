@@ -1,0 +1,14 @@
+apiConfig = {
+    consumer_key: "",
+    consumer_secret: "",
+    access_token: "",
+    access_token_secret: ""
+};
+
+botConfig = {
+    handle: "@"
+}
+
+exports.api = apiConfig;
+exports.bot = botConfig;
+    
