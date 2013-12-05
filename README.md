@@ -1,6 +1,6 @@
 # The alternative acronym bot
 
-In the bsns lifestyle we live today we are surrounded with acronyms galore: RFC; TLS; LOL; YOLO; but what if those acronyms don't actually mean what you are suposed to know them by. RFC might actually mean "Repeat For Carniage", or YOLO to stand for "You Obviously Love Owls"!
+In the bsns lifestyle we live today we are surrounded with acronyms galore: RFC; TLS; LOL; YOLO; but what if those acronyms don't actually mean what you are suposed to know them by. RFC might actually mean "Repeat For Carnage", or YOLO to stand for "You Obviously Love Owls"!
 
 And in comes the twitter bot!
 
